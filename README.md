@@ -20,4 +20,6 @@ This project features a self-driving car game developed in Python using the Deep
    pip install kivy torch
 
 2. Run the game:
-```bash python self_driving_car_game.py```
+```bash
+python self_driving_car_game.py
+```
