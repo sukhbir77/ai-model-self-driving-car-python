@@ -22,7 +22,7 @@ This project features a self-driving car game developed in Python using the Deep
 2. Run the game:
 
    ```bash
-   python self_driving_car_game.py
+   python AI.py
    ```
 3. Explore the interactive environment, draw obstacles, and observe the AI's learning process.
 4. Save and load trained AI models for continued exploration.
