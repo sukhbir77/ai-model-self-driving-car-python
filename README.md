@@ -10,7 +10,7 @@ This project features a self-driving car game developed in Python using the Deep
 
 - **Reward System:** The AI receives positive rewards upon reaching its goal and negative rewards when moving away from the goal or colliding with obstacles.
 
-- **Save and Load:** The game provides options to save the trained AI model using the save button and load a previously saved AI using the load button.
+- **Save and Load:** The game provides options to save the trained AI model using save button and load a previously saved AI using the load button.
 
 ## How to Run
 
